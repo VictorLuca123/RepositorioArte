@@ -23,7 +23,7 @@ menu.php – Menu reutilizável em outras páginas.
 
 obras.json – Armazena os dados das obras de arte.
 
-filtro.php – Implementa filtro para as obras (possivelmente por autor, categoria, etc).
+filtro.php – Implementa filtro para as obras (por autor, categoria, etc).
 
 Pastas e arquivos CSS – Responsáveis pela estilização da interface.
 
