@@ -1,0 +1,92 @@
+[
+    {
+        "id": 2,
+        "titulo": "Mona Lisa",
+        "artista": "Leonardo da Vinci",
+        "categoria": "Pintura",
+        "tipo": "Renascimento",
+        "imagem": "imagens\/MonaLisa.jpg",
+        "descricao": "Uma das pinturas mais famosas do mundo, conhecida por seu sorriso enigm\u00e1tico."
+    },
+    {
+        "id": 3,
+        "titulo": "A Ultima Ceia",
+        "artista": "Leonardo da Vinci",
+        "categoria": "Pintura",
+        "tipo": "Renascimento",
+        "imagem": "imagens\/UltimaCeia.png",
+        "descricao": "Uma representa\u00e7\u00e3o da \u00faltima refei\u00e7\u00e3o de Jesus com seus disc\u00edpulos."
+    },
+    {
+        "id": 4,
+        "titulo": "A Virgem dos Rochedos",
+        "artista": "Leonardo da Vinci",
+        "categoria": "Pintura",
+        "tipo": "Renascimento",
+        "imagem": "imagens\/VirgemDasRochas.jpg",
+        "descricao": "Existem duas vers\u00f5es desta pintura, ambas retratando a Virgem Maria, Jesus e S\u00e3o Jo\u00e3o Batista crian\u00e7a."
+    },
+    {
+        "id": 5,
+        "titulo": "Abaporu",
+        "artista": "Tarsila do Amaral",
+        "categoria": "Pintura",
+        "tipo": "Modernismo",
+        "imagem": "imagens\/Abaporu.jpg",
+        "descricao": "Uma obra ic\u00f4nica do movimento modernista brasileiro, representando um ser antropof\u00e1gico."
+    },
+    {
+        "id": 6,
+        "titulo": "A Caipirinha",
+        "artista": "Tarsila do Amaral",
+        "categoria": "Pintura",
+        "tipo": "Modernismo",
+        "imagem": "imagens\/ACaipirinha.jpg",
+        "descricao": "Uma pintura que retrata elementos da cultura brasileira."
+    },
+    {
+        "id": 7,
+        "titulo": "O Sol",
+        "artista": "Tarsila do Amaral",
+        "categoria": "Pintura",
+        "tipo": "Modernismo",
+        "imagem": "imagens\/Osol.jpg",
+        "descricao": "Uma representa\u00e7\u00e3o vibrante do sol, caracter\u00edstica do estilo de Tarsila."
+    },
+    {
+        "id": 8,
+        "titulo": "A Noite Estrelada",
+        "artista": "Vincent van Gogh",
+        "categoria": "Pintura",
+        "tipo": "P\u00f3s-Impressionismo",
+        "imagem": "imagens\/noitestrelada.jpg",
+        "descricao": "Uma das obras mais conhecidas de Van Gogh, retratando a vista da janela de seu asilo \u00e0 noite."
+    },
+    {
+        "id": 9,
+        "titulo": "Girass\u00f3is",
+        "artista": "Vincent van Gogh",
+        "categoria": "Pintura",
+        "tipo": "P\u00f3s-Impressionismo",
+        "imagem": "imagens\/girassois.jpg",
+        "descricao": "Uma s\u00e9rie de pinturas de girass\u00f3is de Van Gogh, celebrando a beleza da natureza."
+    },
+    {
+        "id": 10,
+        "titulo": "Campo de Trigo com Corvos",
+        "artista": "Vincent van Gogh",
+        "categoria": "Pintura",
+        "tipo": "P\u00f3s-Impressionismo",
+        "imagem": "imagens\/Campodetrigo.jpg",
+        "descricao": "Uma pintura melanc\u00f3lica, considerada uma das \u00faltimas obras de Van Gogh."
+    },
+    {
+        "id": "67fae47887b4d",
+        "titulo": "O Grito",
+        "artista": "Eduard Munch",
+        "categoria": "",
+        "tipo": "Modernismo",
+        "imagem": "https:\/\/cdn.culturagenial.com\/imagens\/712px-edvard-munch-the-scream-google-art-project-0-cke.jpg",
+        "descricao": "Obra muito bonitaaaaaaaaa"
+    }
+]
